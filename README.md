@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Pricing table snippet** made with Bootstrap 4. The design consists of a fully responsive table with three columns for showcasing your product's different subscription plans or pricing tiers. Each column has title, description, features list, price, and an action button. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/pricing-table)
+**Pricing table snippet** made with Bootstrap 4. The design consists of a fully responsive table with three columns for showcasing your product's different subscription plans or pricing tiers. Each column has title, description, features list, price, and an action button. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Pricing Table](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/pricing-table) 
+[![Pricing Table](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
